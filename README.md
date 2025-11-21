@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Phung Dam Tien Si
+* Student ID: 23BI14384
 * Student Group ID: Not-for-now
